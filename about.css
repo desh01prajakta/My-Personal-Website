@@ -4,7 +4,7 @@ body{
 .links{
     /* top: 16px;
     left:8px; */
-    font-size: 20 px;
+    font-size: 25px;
     float: right;
 }
 h1{
@@ -21,12 +21,12 @@ h1{
 h3{
     /* top:130px;
     left:8px; */
-    font-size: 30px;
+    font-size: 20px;
     margin-top: 15px;
 }
 .bake{
     font-size: 20px;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .bake1{
@@ -36,6 +36,7 @@ h3{
     padding: 25px;
     text-align: justify;
     margin-right: 80px;
+    margin-top: auto;
     }
 
 .baking{

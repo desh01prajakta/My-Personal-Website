@@ -1,51 +1,47 @@
 .container{
     position: relative;
 }
+body{
+    background-image: url("./pictures/portfolio.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
 .links{
-    position: absolute;
-    top: 16px;
-    right:8px;
     font-size: 20 px;
+    float: right;
+    font-size: 25px;
 }
 h1{
-    position:absolute;
-    top:16px;
-    left:8px;
-    font-size: 60px;
-    border-style: inset;
-    border-width: 8px;
+font-size: 40px;
+border-style: inset;
+border-width: 8px;
+padding: 20px;
+width: fit-content;
+text-align: justify;
+margin-top: 10px;
 }
 
 .line1{
-position: absolute;
-  top: 150px;
-  left: 8px;
   font-size: 20px;
   }
 
 .line2{
-    position: absolute;
-  top: 200px;
-  left: 8px;
-  font-size: 20px;
+      font-size: 20px;
   font-style: normal;
   }
 .line3{
-    position: absolute;
-    top: 230px;
-    left: 8px;
-    font-size: 20px;
+        font-size: 20px;
     font-style: normal;
   }
 .line4{
-    position: absolute;
-  top: 280px;
-  left: 8px;
   font-size: 25px;
   font-style: italic;
   border: solid;
   border-color: white;
   border-width: 8px;
   background-color:cornsilk;
-
+  width: fit-content;
 }
