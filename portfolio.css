@@ -1,0 +1,18 @@
+.links{
+    position: absolute;
+    top: 16px;
+    right:8px;
+    font-size: 20 px;
+}
+h1{
+    position:absolute;
+    top:16px;
+    left:8px;
+    font-size: 60px;
+    border-style: inset;
+    border-width: 8px;
+    border-color: brown;
+}
+body{
+    background-color: beige;
+}

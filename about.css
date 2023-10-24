@@ -1,0 +1,115 @@
+body{
+    background-color:burlywood;
+}
+.links{
+    /* top: 16px;
+    left:8px; */
+    font-size: 20 px;
+    float: right;
+}
+h1{
+    /* top:16px;
+    left:8px; */
+    font-size: 40px;
+    border-style: inset;
+    border-width: 8px;
+    padding: 20px;
+    width: fit-content;
+    text-align: justify;
+    margin-top: 10px;
+   }
+h3{
+    /* top:130px;
+    left:8px; */
+    font-size: 30px;
+    margin-top: 15px;
+}
+.bake{
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.bake1{
+   
+    border:solid white 5px;
+    font-size: 20px;
+    padding: 25px;
+    text-align: justify;
+    margin-right: 80px;
+    }
+
+.baking{
+    display:flex;
+    margin-top:auto;
+}
+
+.baking>div
+{
+    /* margin: 10px; */
+    display: flex;
+    /* padding: 20px; */
+    font-size: 30px;
+}
+#baking{
+    width:300px
+}
+.badm{
+    /* top:360px;
+    left:8px; */
+    font-size: 20px;
+}
+.badm1{
+    /* position: absolute; */
+    border:solid white 5px;
+    /* top:400px;
+    left:8px;
+    right:0; */
+    font-size: 20px;
+    padding:25px;
+    /* width:fit-content;
+    height: fit-content; */
+    text-align: justify;
+    margin-right: 80px;
+}
+.badminton{
+    display:flex;
+    margin-top: 5px;
+}
+.badminton>div{
+    display: flex;
+    font-size: 30;
+}
+#badminton{
+    width: 300px;
+    height: 220px;
+}
+.yoga{
+    /* position: absolute; */
+    top:530px;
+    left:8px;
+    font-size: 20px;
+}
+.yoga1{
+    /* position: absolute; */
+    border:solid white 5px;
+    /* float: left;
+    top:580px;
+    left:8px;
+    right:0; */
+    font-size: 20px;
+    padding: 25px;
+    /* width:fit-content;
+    height: fit-content; */
+    text-align: justify;
+    margin-right: 80px;
+
+}
+
+.yoga{
+    display:flex
+}
+
+.yoga>div{
+    display: flex;
+    font-size: 30;
+}
