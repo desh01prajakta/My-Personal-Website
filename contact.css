@@ -2,3 +2,60 @@
     font-size: 20 px;
     float: right;
     font-size: 25px;
+}
+h1{
+    font-size: 40px;
+    border-style: inset;
+    border-width: 8px;
+    padding: 20px;
+    width: fit-content;
+    text-align: justify;
+    margin-top: 10px;
+    }
+body{
+    background-color:blanchedalmond
+}
+
+.form{
+    border:solid white 8px;
+    text-align:center;
+    width: fit-content;
+    display: block;
+    font-size: 1.5ic;
+    font-style:normal;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:ghostwhite;
+    padding:10px;
+    margin-top:5%;
+    margin-bottom: 5%;
+    margin-left: 25%;
+
+}
+.name{
+    padding:5px;
+    margin-left:33px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    
+}
+.email{
+    padding:5px;
+    margin-left:33px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.message{
+    padding:5px;
+    margin-top: 10px;
+    margin-left: 8px;
+    margin-bottom: 10px;
+}
+.context{
+    background-color:lightsalmon;
+    width:50%;
+    height:40%;
+    z-index: 1;
+    border:.5rem white solid;
+    padding:40px;
+    margin-left:20%
+}
