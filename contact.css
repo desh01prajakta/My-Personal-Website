@@ -51,7 +51,7 @@ body{
     margin-bottom: 10px;
 }
 .context{
-    background-color:lightsalmon;
+    background-color:lightsalmon !important;
     width:50%;
     height:40%;
     z-index: 1;
